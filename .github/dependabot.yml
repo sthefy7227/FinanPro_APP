@@ -20,7 +20,3 @@ updates:
           - "com.android.application"
           - "com.android.library"
           - "org.jetbrains.kotlin.android"      
-  - package-ecosystem: "devcontainers"
-    directory: "/"
-    schedule:
-      interval: "weekly"
