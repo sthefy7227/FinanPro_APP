@@ -1,8 +1,8 @@
 # Nombre de la aplicación
 
-Reemplace este texto con una descripción de su aplicación.
+Reemplace este texto con una descripción de su aplicación. Revise el archivo [HELP.md](HELP.md) donde hay mas información sobre como usar esta plantilla.
 
-Author: Nombre del estudiante
+Autor(es): Nombre del estudiante
 
 ## Referencias
 
