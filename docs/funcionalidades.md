@@ -1,7 +1,11 @@
 # Funcionalidades
 
-La siguientes es una lista de las funcionalidades disponibles para el usuario de la aplicación:
+- Registro de ingresos y gastos.
 
-1. ...
-2. ...
-...
+- Clasificación de movimientos financieros por categorías.
+
+- Visualización de reportes trimestrales en gráficas.
+
+- Exportación de reportes en PDF/Excel.
+
+- Notificaciones para recordar registrar gastos o ingresos.

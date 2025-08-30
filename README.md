@@ -1,8 +1,8 @@
-# Nombre de la aplicación
+# Finanpro
 
-Reemplace este texto con una descripción de su aplicación. Revise el archivo [HELP.md](HELP.md) donde hay mas información sobre como usar esta plantilla.
+FinanPro es una aplicación para la gestión de finanzas personales que permite a los usuarios registrar sus ingresos y gastos de manera sencilla, clasificarlos en diferentes categorías, y generar reportes trimestrales con gráficas interactivas. Su objetivo principal es brindar a los usuarios una herramienta práctica y accesible desde cualquier lugar para llevar un control más detallado de sus finanzas.
 
-Autor(es): Nombre del estudiante
+Autor(es): Stefany Rojas
 
 ## Referencias
 
