@@ -2,11 +2,4 @@
 
 La aplicación tendrá la siguientes pantallas
 
-1. Pantalla 1: Lorem Ipsum Dolor
-
-![screen1](images/waze_app_screenshot.jpg)
-
-# Referencias
-
-- [Material Design: Foundations](https://m3.material.io/foundations)
-- [Material Design: Style](https://m3.material.io/styles)
+https://www.figma.com/proto/tDiq2wGeFpkYP7Ue71ioSr/App-de-Finan%C3%A7as--Community-?node-id=3135-570&t=Fj7wKqqqEfeQGSld-1
